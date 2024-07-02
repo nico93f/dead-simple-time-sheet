@@ -1,0 +1,10 @@
+{
+  "name": "Dead simple time sheet",
+  "description": "Easiest way to submit a time sheet at the end of the month",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "dead-simple-time-sheet.png"
+  }
+}
